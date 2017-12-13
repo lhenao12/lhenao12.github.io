@@ -32,13 +32,14 @@ aside {
 }
 
 .color1 {
-    background-color: #005883;
+    background-color: #3384AC;
     color: #FFFFFF
 }
 
 .color2 {
-    background-color: #FFFFFF;
-    color: #005883
+    background-color: #005883;
+    color: #FFFFFF;
+    text-align: justify;
 }
 
 .GITHUB {

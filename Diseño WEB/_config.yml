@@ -1,0 +1,17 @@
+~~~~~~~~~~~_Config.yml~~~~~~~~~~~~~
+
+#Site
+title: OVI WEB
+subtitle:
+description: lhenao12 OVI WEB
+author: lhenoo12
+language: spanish
+timezone: Bogota
+
+
+#URL
+url: https://lhenao12.github.io/
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
