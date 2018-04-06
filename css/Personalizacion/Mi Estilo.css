@@ -23,13 +23,13 @@ body{
 .main {
     background: #DED99D;
     color: #005883;
-    border: 5px solid grey;*/
+    /*border: 5px solid grey;*/
 
 }
 
 .row_main{
 
-  border: 5px solid grey;*/
+  /*border: 5px solid grey;*/
   background: #DED99D;
 }
 aside {
@@ -78,7 +78,7 @@ aside {
 
 .NAV_BAR{
 
-	    background-color: #005883;
+	    background-color: #7C7875;
         color: #FFFFFF
 }
 .NAV_BAR_0{
